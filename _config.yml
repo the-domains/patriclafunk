@@ -1,0 +1,74 @@
+typography_spectrum: 0.6322988974861801
+color:
+  brandStrength: 0.4780292268842459
+  lightness: 0.0069679333828389645
+  saturation: 0.5844077337533236
+  rhythmicContrast: 0.668321488192305
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.8091410922352225
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeca633f-f465-4397-8178-9389426d3237.jpg
+name: patriclafunk
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Twitter
+    url: 'https://twitter.com/patriclafunk'
+    type: external
+  - name: About
+    id: 705c92b5-039e-423d-a925-40d5b4a07817
+    type: content
+  - name: Tour Dates
+    url: 'http://bandsintown.com/patriclafunk'
+    type: external
+  - name: Beatport
+    url: 'https://www.beatport.com/artist/patric-la-funk/16907'
+    type: external
+  - name: Discogs
+    url: 'https://www.discogs.com/artist/196795-Patric-La-Funk'
+    type: external
+title: 'Patric la Funk '
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48bc2651-b9ee-4e4d-8192-3dcce966574f.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/48bc2651-b9ee-4e4d-8192-3dcce966574f.gif
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Planet Funk, Germany'
+purpose:
+  - type: external
+    url: 'https://soundcloud.com/patriclafunk/tracks'
+    label: Listen on SoundCloud
+  - type: contact
+    url: 'mailto:promoplf@gmail.com'
+    label: Contact me
+github: true
